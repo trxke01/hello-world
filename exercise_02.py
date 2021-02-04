@@ -1,1 +1,1 @@
-
+print("Exercise 02")
